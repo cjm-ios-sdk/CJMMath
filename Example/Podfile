@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CJMMath_Example' do
+  pod 'CJMMath', :path => '../'
+
+  target 'CJMMath_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
