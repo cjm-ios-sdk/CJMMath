@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 数学相关的计算和转化。比如transform和缩放，偏移，旋转的转化；线与线的交点，线的角度等等。
                        DESC
 
-  s.homepage         = 'https://github.com/chenjm/CJMMath'
+  s.homepage         = 'https://github.com/cjm-ios-sdk/CJMMath'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'chenjm' => 'cjiemin@163.com' }
-  s.source           = { :git => 'https://github.com/chenjm/CJMMath.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/cjm-ios-sdk/CJMMath.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
