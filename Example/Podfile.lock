@@ -1,0 +1,16 @@
+PODS:
+  - CJMMath (0.1.0)
+
+DEPENDENCIES:
+  - CJMMath (from `../`)
+
+EXTERNAL SOURCES:
+  CJMMath:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CJMMath: 14b0d32113c0e9b0ac68d21957b29d1f169d4eda
+
+PODFILE CHECKSUM: e8debafb375fc480ff5cc341098e874983385e14
+
+COCOAPODS: 1.9.1
