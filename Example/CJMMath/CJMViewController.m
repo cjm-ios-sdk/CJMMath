@@ -7,6 +7,7 @@
 //
 
 #import "CJMViewController.h"
+#import <CJMMath/CJMMath.h>
 
 @interface CJMViewController ()
 
